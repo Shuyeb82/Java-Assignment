@@ -82,6 +82,8 @@ salary -> Instance field
 bonus -> Local variable in display()
 show() -> Executes in its own method frame
 ```
+### Output Screenshot:
+https://github.com/Shuyeb82/Java-Assignment/blob/main/Stack%20and%20Heap%20Lab/Output/EmployeeOutput.png
 
 **Note:** The identity hash code may differ between program executions. It is not the actual memory address of an object.
 
@@ -137,9 +139,3 @@ java EmployeeMemoryDemo
 ```
 
 ---
-
-## Conclusion
-
-These programs demonstrate the basic concepts of Java stack and heap memory, including object creation, instance variables, local variables, object references, method stack frames, and local inner classes.
-
-They help illustrate how Java manages memory during program execution.
