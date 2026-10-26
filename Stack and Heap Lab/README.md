@@ -20,6 +20,8 @@ This repository contains two Java programs demonstrating how Java manages object
 - Creates a `Student` object in the `main()` method.
 - Prints the object's identity hash code using `System.identityHashCode()`.
 
+**Source Code:** [StackHeapDemo.java](https://github.com/Shuyeb82/Java-Assignment/blob/main/Stack%20and%20Heap%20Lab/StackHeapDemo.java)
+
 ### Sample Input
 
 ```text
