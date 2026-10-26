@@ -50,6 +50,8 @@ Local Variable (marks): 85
 - The `Report` class contains a `show()` method.
 - Prints the identity hash codes of both the `Employee` and `Report` objects.
 
+**Source Code:** [EmployeeMemoryDemo.java](https://github.com/Shuyeb82/Java-Assignment/blob/main/Stack%20and%20Heap%20Lab/EmployeeMemoryDemo.java)
+
 ### Sample Input
 
 ```text
