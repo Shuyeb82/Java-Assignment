@@ -39,6 +39,8 @@ Local Variable (marks): 85
 ```
 
 ---
+### Output Screenshot
+https://github.com/Shuyeb82/Java-Assignment/blob/main/Stack%20and%20Heap%20Lab/Output/StudentOutput.png
 
 ## Problem 2: `EmployeeMemoryDemo.java`
 
